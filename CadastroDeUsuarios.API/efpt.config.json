@@ -1,0 +1,47 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "CadastroDeUsuariosContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "CadastroDeUsuarios.API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Escolaridade]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HistoricoEscolar]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Usuarios]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "LAPTOP-I0HQ1AM8.Confitec",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
