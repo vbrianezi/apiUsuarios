@@ -46,6 +46,7 @@ namespace CadastroDeUsuarios.API
             });
             
             services.AddScoped<IUsuariosRepositorio, UsuariosRepositorio>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
